@@ -1,7 +1,7 @@
 url: https://lighthouse-api.fly.dev
-status: down
-code: 500
-responseTime: 9782
-lastUpdated: 2024-06-25T11:42:39.524Z
+status: up
+code: 200
+responseTime: 19513
+lastUpdated: 2024-06-25T11:55:21.742Z
 startTime: 2024-06-22T08:24:45.851Z
 generator: Upptime <https://github.com/upptime/upptime>
