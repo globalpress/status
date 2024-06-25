@@ -4,19 +4,19 @@
     "url": "https://lighthouse-api.fly.dev",
     "icon": "https://icons.duckduckgo.com/ip3/lighthouse-api.fly.dev.ico",
     "slug": "lighthouse-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5229,
-    "timeDay": 8204,
-    "timeWeek": 5229,
-    "timeMonth": 5229,
-    "timeYear": 5229,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 7609,
+    "timeDay": 11974,
+    "timeWeek": 7609,
+    "timeMonth": 7609,
+    "timeYear": 7609,
     "dailyMinutesDown": {
-      "2024-06-25": 0
+      "2024-06-25": 13
     }
   }
 ]
